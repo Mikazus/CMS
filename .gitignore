@@ -1,0 +1,18 @@
+﻿# Environment secrets
+.env
+.env.local
+.env.*.local
+
+# Next.js
+cms/node_modules/
+cms/.next/
+cms/out/
+
+# Go
+backend/bin/
+*.exe
+*.out
+
+# OS / Editor
+.DS_Store
+Thumbs.db
